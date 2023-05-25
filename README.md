@@ -1,6 +1,6 @@
 ### ABOUT ME
 
-My name is brian
+My name is Brian
 ### CURRENT STACK
 
 I have learned php, java, avascript, kotlin, react, react, laravel and bootstrap
