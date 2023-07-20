@@ -5,8 +5,7 @@ My name is Brian
 
 I have learned php, java, avascript, kotlin, react, react, laravel and bootstrap
 ### CONTACT
-
- soon
+Linkedin: https://www.linkedin.com/in/dev-brian-acosta-benitez/
 ### GITHUB STATS
   
   soon
