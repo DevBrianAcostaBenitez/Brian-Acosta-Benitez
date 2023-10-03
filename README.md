@@ -1,9 +1,14 @@
 ### ABOUT ME
 
-My name is Brian
+My name is Brian, a junior Developer, i have studied both web and multiplatform programming
 ### CURRENT STACK
 
-I have learned php, java, javascript, kotlin, react, react, laravel and bootstrap, among other technologies
+- Java.         - Kotlin.
+- Node js.      - Bootstrap.
+- Html.         - Angular.
+- Javascript.   - React.
+- Springboot.   - Php.
+- Laravel.      - Symphony. 
 ### CONTACT
 Linkedin: https://www.linkedin.com/in/dev-brian-acosta-benitez/
 ### GITHUB STATS
