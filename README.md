@@ -1,6 +1,6 @@
 ### ABOUT ME
 
-My name is Brian, im a junior Developer, i have studied both web and multiplatform programming
+My name is Brian, im a junior Developer, i have studied both web and multiplatform developing
 ### CURRENT STACK
 
 - Java.         - Kotlin.
